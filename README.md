@@ -48,13 +48,7 @@ JobTrackPro delivers a **unified, intelligent platform** that:
 
 The platform is built on a **microservices architecture** with four core modules:
 
-```
-┌──────────────────────┐    ┌──────────────────┐    ┌─────────────────────┐    ┌──────────────┐
-│  Resume Builder /    │    │  System           │    │  Job Tracker        │    │  AI Chatbot  │
-│  Reviewer            │───▶│  Integration      │───▶│  Database           │◀──▶│  (ChatGPT)   │
-│  (AI + Rule Engine)  │    │  (NUWorks/Workday)│    │  (AWS DynamoDB)     │    │              │
-└──────────────────────┘    └──────────────────┘    └─────────────────────┘    └──────────────┘
-```
+<img width="552" height="281" alt="image" src="https://github.com/user-attachments/assets/9e76b3bd-b0fb-4772-9a2b-2677aa42bdb3" />
 
 ### Tech Stack
 

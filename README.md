@@ -123,6 +123,9 @@ As the **Technical Program Manager**, I was responsible for end-to-end program d
 
 ## 🗂️ Implementation Plan
 
+
+<img width="552" height="281" alt="image" src="https://github.com/user-attachments/assets/99817450-b4c8-4fdc-a12e-9bc72fd28f83" />
+
 ```
 Phase 1: Discovery & Planning     → Market Research, WBS, RACI, Stakeholder Analysis
 Phase 2: Design & Architecture    → System Design, Tech Stack Selection, Module Scoping

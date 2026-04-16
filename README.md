@@ -164,11 +164,6 @@ Phase 5: Closure & Documentation  → Closure Report, Handoff, Lessons Learned
 **Semester:** Spring 2024  
 **Supervisor:** Prof. Sharad Bajracharya  
 
----
-
-## 📬 Contact
-
-For questions about this project, please reach out via [GitHub Issues](../../issues) or connect on LinkedIn.
 
 ---
 

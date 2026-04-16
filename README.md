@@ -166,8 +166,3 @@ Phase 5: Closure & Documentation  → Closure Report, Handoff, Lessons Learned
 **Institution:** Northeastern University, College of Engineering  
 **Semester:** Spring 2024  
 **Supervisor:** Prof. Sharad Bajracharya  
-
-
----
-
-*This project was developed as part of an academic program management course. All financial figures, projections, and technical designs are academic estimates produced for learning purposes.*

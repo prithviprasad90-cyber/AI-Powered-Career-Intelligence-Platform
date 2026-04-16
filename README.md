@@ -123,7 +123,7 @@ As the **Technical Program Manager**, I was responsible for end-to-end program d
 
 ## 🗂️ Implementation Plan
 
-<img width="888" height="912" alt="image" src="https://github.com/user-attachments/assets/3dfcc7b8-c346-47a2-84be-0d0e83f578c4" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3dfcc7b8-c346-47a2-84be-0d0e83f578c4" />
 
 
 ```

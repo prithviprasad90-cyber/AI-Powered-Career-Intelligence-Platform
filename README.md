@@ -1,4 +1,4 @@
-# 🎯 JobTrackPro — AI-Powered Job Tracking Platform for University Students
+# 🎯 AI-Powered Career Inteligence Platform
 
 > **Gateway to Next-Gen Job Tracking** | Northeastern University · EMGT 5220 – Project Management · Spring 2024
 
